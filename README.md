@@ -1,6 +1,6 @@
 # Introduction
 
-The aim of this project was to build a program that can play Mancala. The core algorithm was the minimax algorithm, with alpha-beta pruning speeding up the search. In addition, to make the application more user-friendly, there is a graphical user interface (GUI).
+The aim of this project was to build a program that can play Mancala. The core algorithm is the minimax algorithm, with alpha-beta pruning speeding up the search. In addition, to make the application more user-friendly, there is a graphical user interface (GUI).
 
 There are detailed documentation and comments throughout the code.
 
