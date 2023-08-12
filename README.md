@@ -6,7 +6,7 @@ There are detailed documentation and comments throughout the code.
 
 # Setting Up the Program
 
-1. Download mancala.zip.
+1. Download mancala.zip and unzip it.
 2. Open main.py in a code editor. There are detailed comments that provide further instructions.
 3. After reading through those comments, run main.py.
 4. Final note: ensure that all other .py files are in the same folder as main.py.
