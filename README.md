@@ -9,4 +9,5 @@ There are detailed documentation and comments throughout the code.
 1. Download mancala.zip.
 2. Open main.py in a code editor. There are detailed comments that provide further instructions.
 3. After reading through those comments, run main.py.
-4. Enjoy!
+4. Final note: ensure that all other .py files are in the same folder as main.py.
+5. Enjoy!
